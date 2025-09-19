@@ -28,9 +28,9 @@ python todo.py
 ---
 
 ## Screenshot
-![To-Do List App Screenshot]
-(screenshot.png)
+![To-Do List App Screenshot](screenshot.png)
 ---
 
 ## Author
+
 Created by *Natálie Břichnáčová* as a practice project for learning Python basics.
